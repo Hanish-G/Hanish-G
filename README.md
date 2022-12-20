@@ -22,7 +22,7 @@
 
 
 
-- 🔭 I’m currently working in Desktop Readers & Transponders team
+- 🔭 I’m currently working in Desktop Readers & Transponders team at Identiv
 - 💬 Ask me about Black hole & Space
 - 📫 How to reach me: shanish@identiv.com
 - 😄 Pronouns: Mr/He
