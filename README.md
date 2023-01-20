@@ -22,8 +22,7 @@
 
 
 
-- 🔭 I’m currently working in Desktop Readers & Transponders team at Identiv
-- 💬 Ask me about Black hole & Space
+- 🔭 Software Engineer at Identiv in Desktop Readers & Transponders team.
 - 📫 How to reach me: shanish@identiv.com
 - 😄 Pronouns: Mr/He
 - ⚡ Fun fact: Computer Programming was instrumental in helping end World War II
