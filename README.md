@@ -18,7 +18,6 @@
 
 
 
-- 🔭 Software Engineer at Identiv in Desktop Readers & Transponders team.
-- 📫 How to reach me: shanish@identiv.com
-- 😄 Pronouns: Mr/He
+- 🔭 Software Engineer at Hirsch Secure (Logical Access).
+- 📫 How to reach me: shanish@hirschsecure.com
 - ⚡ Fun fact: Computer Programming was instrumental in helping end World War II
